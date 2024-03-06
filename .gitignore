@@ -31,4 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### VS Code ###
 .env
+
+### APP Prop ###
+.application.properties
+
